@@ -9,5 +9,7 @@
   "theme_color": "#14101c",
   "lang": "es",
   "orientation": "portrait-primary",
-  "icons": []
+  "icons": [
+    {"src":"/kaleido-icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}
+  ]
 }
