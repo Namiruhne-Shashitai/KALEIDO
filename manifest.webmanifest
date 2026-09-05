@@ -1,0 +1,13 @@
+{
+  "name": "Kaleido Personal",
+  "short_name": "Kaleido",
+  "description": "Kaleido — espacio personal para tus personajes, chats y creación.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#14101c",
+  "theme_color": "#14101c",
+  "lang": "es",
+  "orientation": "portrait-primary",
+  "icons": []
+}
